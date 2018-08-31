@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ct_site.png
+image: images/combotranslatorpic.png
 title: Combo Translator
 permalink: projects/combotranslator
 # All dates must be YYYY-MM-DD format!
