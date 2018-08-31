@@ -16,12 +16,14 @@ summary: A clone of the SNES game 'Tetris Attack'
 Tetris Attack is a puzzle game for the SNES.  It was also known as 'Panel de Pon' in Japan and also goes by the name of 'Puzzle League' or 'Puzzle Challenge'.  The player controls a cursor which switches the position of two blocks.  Matching 3 or more blocks of the same color destroys the blocks and sends garbage blocks to the other player in competitive play.  The player loses once their blocks reach the top of the play area. 
 
 <video controls>
-  <sourc src="tetrisattackgame.webm" type="video/webm">
+  <source src="tetrisattackgame.webm" type="video/webm">
 </video>
 
 This project was created using a game engine called Godot.  Godot uses it's own language that is very similar to python called GDScript.  
 
-<img src = "../images/gdscript.png>
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/gdscript.png" width="=500px" height="500px">
+</div>
  
 The future of the Puzzle Challenge series is not clear.  Recently it was featured as a small mini-game in the 'Animal Crossing' series.  As a fan of the series, I decided to try and make my own clone of it.  It was hard to find any kind of help in making this clone because the series is not very popular.  I learned a lot about game development and the work that goes into creating a game.  
 
