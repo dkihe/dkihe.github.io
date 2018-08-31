@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/golsmall.png
 title: Conway's Game of Life
 permalink: projects/gameoflife
 # All dates must be YYYY-MM-DD format!
