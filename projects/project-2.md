@@ -1,25 +1,28 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/tetrisattack.png
+title: Tetris Attack Clone
+permalink: projects/tetrisattack
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-04-05
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Godot
+  - GDScript
+summary: A clone of the SNES game 'Tetris Attack'
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Tetris Attack is a puzzle game for the SNES.  It was also known as 'Panel de Pon' in Japan and also goes by the name of 'Puzzle League' or 'Puzzle Challenge'.  The player controls a cursor which switches the position of two blocks.  Matching 3 or more blocks of the same color destroys the blocks and sends garbage blocks to the other player in competitive play.  The player loses once their blocks reach the top of the play area. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+<video controls>
+  <sourc src="tetrisattackgame.webm" type="video/webm">
+</video>
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project was created using a game engine called Godot.  Godot uses it's own language that is very similar to python called GDScript.  
+
+<img src = "../images/gdscript.png>
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The future of the Puzzle Challenge series is not clear.  Recently it was featured as a small mini-game in the 'Animal Crossing' series.  As a fan of the series, I decided to try and make my own clone of it.  It was hard to find any kind of help in making this clone because the series is not very popular.  I learned a lot about game development and the work that goes into creating a game.  
+
+Currently the game is still unfinished.  The only things implemented are the swapping of blocks, rising random blocks, and gravity.  Things like destroying blocks after they match, a losing condition, and other things are still missing.  
