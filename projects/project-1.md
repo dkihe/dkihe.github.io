@@ -5,7 +5,7 @@ image: images/ct_site.png
 title: Combo Translator
 permalink: projects/combotranslator
 # All dates must be YYYY-MM-DD format!
-date: 2017
+date: 2017-06-01
 labels:
   - React
   - Javascript
