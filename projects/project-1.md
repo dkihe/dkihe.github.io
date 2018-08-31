@@ -12,7 +12,7 @@ labels:
 summary: A combo notation translator for fighting games.
 ---
 
-<div class="ui small rounded images">
+<div class="ui image">
   <img class="ui image" src="../images/ct_tekken.png">
 </div>
 
