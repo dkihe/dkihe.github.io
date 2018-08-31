@@ -21,7 +21,9 @@ Tetris Attack is a puzzle game for the SNES.  It was also known as 'Panel de Pon
 
 This project was created using a game engine called Godot.  Godot uses it's own language that is very similar to python called GDScript.  
 
-<img class="ui image" src="../images/gdscript.png">
+<div class="ui image">
+  <img class="ui image" src="../images/ct_tekken.png">
+</div>
  
 The future of the Puzzle Challenge series is not clear.  Recently it was featured as a small mini-game in the 'Animal Crossing' series.  As a fan of the series, I decided to try and make my own clone of it.  It was hard to find any kind of help in making this clone because the series is not very popular.  I learned a lot about game development and the work that goes into creating a game.  
 
