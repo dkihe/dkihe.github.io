@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: Judge a Programmer by the Questions they ask...
+# All dates must be YYYY-MM-DD format!
+date: 2018-09-06
+labels:
+  - Questions
+  - Learning
+  - StackOverflow
+---
 # Judge a Programmer by the Questions they ask...
 While working on your app, you come across a problem.  Maybe you need to fix a bug, or maybe your program keeps giving you an error.  So what do you do?  There are several things you might have done.  As a programmer, 'Google' is your best friend.  If you had an error message you might have copy and pasted the message into google.  If you had a bug, you might have tried to use google to find the answer.  If both your attempts failed, then it's time to give up.  After mustering up that last sliver of hope and motivation that you thought had disappeared you might come up with one more way to save your app. There are millions of programmers out there you might have had the same problem as you.  You realize that alone you are weak, but together are strong.  You can ask for help on a forum like stackoverflow.  But wait!  Don't just go on the forums and post question like it's no big deal.  
 
