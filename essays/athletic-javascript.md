@@ -11,7 +11,7 @@ labels:
 ---
 # Thoughts on Javascript
 
-<img class="ui image center" src="../images/javascript_humor.jpg">
+<img class="ui medium right floated rounded image" src="../images/javascript_humor.jpg">
 
 Is javascript a good language? It is hard for me to compare it to other languages that I've tried since I have only a little bit of experience programming in anything else, but personally I enjoy javascript a lot more than languages like C, C++, and Java. To me, javascript is fun and easy to use. When using statically typed languages I always feel like things are overly complicated. Simple things like making a function can cause annoyances. Javascript functions are simple and intuitive. I enjoy the fact that I don't have to state a variables type when creating a new variable. It feels flexible and fast. Personally I enjoy dynamically typed languages compared to statically typed ones. Thanks to the popularity of javascript, it's also easy to find solutions to problems you may have when programming. I also enjoyed using Lua and Python, though I don't have as much experience using those two than javascript. I am still somewhat new to using ES6. Arrow function seem straight forward, but I still get confused when using them with something like .map().
 
