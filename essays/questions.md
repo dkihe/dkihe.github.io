@@ -18,7 +18,7 @@ There are two types of people in this world.  The first asks questions in a 'sma
   <img class="ui image" src="../images/smartq.png">
 </div>
 
-In this example the user asked their question and gives a very detailed description of their problem.  Their description includes what they are trying to acheive and their current code.  They also show what they have tried before and what happened when they tried it.  This question was viewed over 97,000 times and gained many favorites and votes.  This question most likely helped many with the same problem. 
+In this example the user asked their question and gives a very detailed description of their problem.  Their description includes what they are trying to acheive as well as their current code.  The user also shows that they had made an effort to fix their problem before asking the question.  This question was viewed over 97,000 times and gained many favorites and votes, which shows that it most likely helped many with the same problem.
 
 <a href='https://stackoverflow.com/questions/1305853/how-can-i-make-my-match-non-greedy-in-vim'>Link to the question</a>
 
@@ -34,3 +34,4 @@ In this example, the user asks a lazy question.  Their title gives no indication
 <a href='https://stackoverflow.com/questions/32362197/python-please-tell-me-whats-wrong'>Link to the question</a>
 
 What kind of person are you?
+
