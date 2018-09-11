@@ -27,9 +27,7 @@ let name = function(param){
 ```
 ... you can also do this.
 ```javascript
-let name = (param) =>{
-  statement
-}
+let name = param =>{ statement }
 ```
 It is a bit hard to keep up with the changes sometimes.
 
