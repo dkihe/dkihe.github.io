@@ -20,8 +20,11 @@ I had heard about Semantic UI and Bootstrap before, but I had thought that maybe
 Not that it doesn't take some work.  Semantic UI probably doesn't format your page exactly in the way you want.  If you want to make things look the way you want, you are still going to need to use CSS.  I said before that HTML and CSS gets messy after a while, and that still holds true with Semantic.  I put the blame mostly on my own inexperience though.  Semantic still gives you an easy way to create a nice looking layout for your web page even without CSS.  I think that Semantic UI is a great tool for developers who do not want to focus on the look of their site and instead wants to put more time into the interaction and other parts of their site.  
 
 This week I worked on a copy of a site using Semantic.  Creating the menu bar at the top was a very simple process, however changing the colors as well as creating suitable spacing required CSS.  It turned out pretty similar to the original website.  
-
-<img class="ui medium image" src="zipcopy.png">
-<img class="ui medium image" src="zipreal.png">
+<div class="ui image">
+  <img class="ui image" src="../images/zipcopy.png">
+</div>
+<div class="ui image">
+  <img class="ui image" src="../images/zipreal.png">
+</div>
 
 This week I worked on a copy of a site using Semantic.  Creating the menu bar at the top was a very simple process, however changing the colors as well as creating suitable spacing required CSS.  It turned out pretty similar to the original website.  I never would have thought I would be able to create a page like this in a few hours.  Usually it would take a lot of time, effort and googling, but now I can proudly show my site off and say "I made this (thanks to a framework)".
