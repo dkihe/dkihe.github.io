@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Coders Remorse: Why You Should Use Design Patterns 
+title: Coders Remorse - Why You Should Use Design Patterns
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:
   - Design Patterns
   - Learning
-  - Engineering
+  - Software Engineering
 ---
 # Coders Remorse
 
