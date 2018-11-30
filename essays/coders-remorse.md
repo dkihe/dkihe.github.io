@@ -11,10 +11,10 @@ labels:
 ---
 # Coders Remorse
 
-When working on large projects it's easy to eventually get to a point where your code is a mess and you think to yourself "I should have done it *this* way instead".  Personally, this has happened to me many times, and continues to happen to this day.  Usually this causes me to restart or rewrite the project I've been working on, but even after restarting I end up thinking the same thing.  I regularly think that something in my code could have been done another way to make things easier.  However, I don't think that explaining design patterns is easy especially to someone who has never experienced one.  It's something that you have to experience in order to see the importance.  
+When working on large projects it's easy to eventually get to a point where your code is a mess and you think to yourself "I should have done it *this* way instead".  Personally, this has happened to me many times, and continues to happen to this day.  Usually this causes me to restart or rewrite the project I've been working on, but even after restarting I end up thinking the same thing.  I regularly think that something in my code could have been done another way to make things easier.  However, I don't think that explaining design patterns is easy especially to someone who has never experienced one.  It's something that you have to experience in order to see the importance. 
 
-<div class="ui image">
-  <img class="ui small image" src="../images/designpattern.png">
+<div class="ui centered image">
+  <img class="ui medium image" src="../images/designpattern.png">
 </div>
 
 When working with a team, you'll find that everyone codes differently with their own design pattern.  It soon becomes a mess and you begin thinking, again, that "I should have done it *this* way instead".  It would probably have been helpful to explain to your team that your project will be done using *this* design pattern.  That way everyone will be more in sync when it comes to coding.  Just think about all the time wasted trying to figure out another teammates code.  How does everything connect to each other?  Why did they write this piece of code like this?  All these questions could be answered by following a design pattern.      
