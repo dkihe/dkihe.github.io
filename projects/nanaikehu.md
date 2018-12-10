@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nana_landing.png
+image: images/nana_pic.png
 title: Nana Ikehu
 permalink: projects/nanaikehu
 # All dates must be YYYY-MM-DD format!
